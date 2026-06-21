@@ -17,7 +17,7 @@
     </td>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinshengZheng&repo=video-system&hide_border=true&bg_color=fefcf5&text_color=6b5e4e&icon_color=c4b49c&show_owner=false&card_width=400" alt="video-system">
+        <a href="https://github.com/LinshengZheng/video-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LinshengZheng&repo=video-system&hide_border=true&bg_color=fefcf5&text_color=6b5e4e&icon_color=c4b49c&show_owner=false&card_width=400" alt="video-system"></a>
       </p>
     </td>
   </tr>
