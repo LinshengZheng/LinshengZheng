@@ -1,9 +1,9 @@
-<p align="center">
-  <samp><b><a href="mailto:endlesszheng1024@gmail.com" style="color:inherit;text-decoration:none">ENDLESS ZHENG</a></b></samp><br>
+<div align="center">
+  <h2><a href="mailto:endlesszheng1024@gmail.com" style="color:inherit;text-decoration:none;font-weight:500">ENDLESS ZHENG</a></h2>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
-</p>
+</div>
 
 <br>
 
