@@ -11,7 +11,7 @@
   <tr>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LinshengZheng&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&bg_color=fefcf5&text_color=6b5e4e&icon_color=c4b49c&ring_color=d4c5aa&card_width=400" alt="stats"><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=LinshengZheng&show_icons=true&hide_title=true&hide_border=true&bg_color=fefcf5&text_color=6b5e4e&icon_color=c4b49c&ring_color=d4c5aa&card_width=400" alt="stats"><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinshengZheng&layout=compact&hide_title=true&hide_border=true&bg_color=fefcf5&text_color=6b5e4e&card_width=400" alt="langs">
       </p>
     </td>
